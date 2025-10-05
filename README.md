@@ -64,7 +64,7 @@ Now you can:
 
 6️⃣ Commit Your Changes
 git add .
-git commit -m "Added my contribution: <short description>"
+git commit -m "Added my contribution: `<short description>`"
 
 7️⃣ Push Your Branch
 git push origin my-new-branch
@@ -82,6 +82,33 @@ Please follow these simple rules to keep the repo clean and helpful:
 ✅ Respect others’ work and opinions.
 ✅ Follow the project’s structure and code style.
 ✅ Be kind and have fun learning! 💙
+
+
+## Project Structure
+
+Project/
+
+├── docs/                 #📁 Documentation files
+
+│   └── setup.md           # Setup guide
+
+├── src/                  # 📁 Source code
+
+│   ├── main.py            # Main program entry point
+
+│   └── utils.py           # Helper functions
+
+├── tests/                # 📁 Test files Folder
+
+│   └── test_main.py       # Tests for main.py
+
+├── assets/               #📁 Images, icons, or UI elements
+
+├── .github/              # GitHub configuration files (like workflows)
+
+├── README.md             # Project overview and instructions
+
+└── LICENSE               # License file
 
 📁 What Can You Contribute?
 
@@ -118,9 +145,9 @@ And of course… earn Hacktoberfest 2025 rewards! 🎁
 ❤️ Contributors
 
 Thanks to all our amazing contributors who make this project better every day:
-<a href="https://github.com/SharmaJiO/hacktoberFest/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=SharmaJiO/hacktoberFest" />
-</a>
+`<a href="https://github.com/SharmaJiO/hacktoberFest/graphs/contributors">`
+`<img src="https://contrib.rocks/image?repo=SharmaJiO/hacktoberFest" />`
+`</a>`
 
 🌈 Final Words
 
